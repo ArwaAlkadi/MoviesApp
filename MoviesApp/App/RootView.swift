@@ -5,6 +5,8 @@
 //  Created by Arwa Alkadi on 24/12/2025.
 //
 
+//هذا الملف يحدد أول صفحة تظهر للمستخدم حسب حالة الدخول
+
 import SwiftUI
 
 struct RootView: View {
